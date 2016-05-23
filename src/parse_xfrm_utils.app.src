@@ -1,0 +1,15 @@
+{application, parse_xfrm_utils,
+ [{description, "A library for performing basic parse transforms"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
